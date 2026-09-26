@@ -23,14 +23,16 @@
 
 ---
 
-### What I build
+### GitHub Stats
 
-Data Engineer at **L'Oréal** (via Wit-Digital), on the global supply chain data platform — turning raw SAP stock data into reliable financial provisions (Excess & Obsolete use case). Before that, I rebuilt Decathlon's IT inventory pipeline from the ground up.
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=BaditSad&show_icons=true&theme=default&hide_border=true&count_private=true"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BaditSad&layout=compact&hide_border=true"/>
+</p>
 
-- 🏭 **L'Oréal** — data pipelines linking local/global SAP stock entities to financial provisioning
-- 📦 **Decathlon** — Cloud ETL migrated GCP → AWS, inventory accuracy **79% → 98%** across 250,000+ assets
-- 🤖 Side projects spanning **AI automation, HealthTech, ERP and hardware upcycling**
-- 🌏 5+ years of engineering studies, 20+ technologies, a 2-month solo backpacking break across Asia between jobs
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BaditSad&hide_border=true"/>
+</p>
 
 ---
 
@@ -63,20 +65,6 @@ Data Engineer at **L'Oréal** (via Wit-Digital), on the global supply chain data
 
 ---
 
-### Featured projects
-
-**Le Bloop — ERP & stock management**
-> Interconnected Shopify ↔ SumUp ERP unifying stock across shops, warehouse and e-commerce, with automated replenishment and a ChatGPT-assisted B2B import workflow.
-> `Python` `Shopify API` `SumUp API` `ChatGPT`
-
-**TRADSHORT — Short-form content automation**
-> Full-stack platform (FastAPI, Celery, Redis) that translates, dubs and lip-syncs foreign viral content, then auto-publishes to TikTok through per-country proxies — built to run ~100 accounts in parallel.
-> `FastAPI` `Celery` `OpenAI` `ElevenLabs` `Playwright` `FFmpeg`
-
-**NOVA — Intelligent health platform**
-> Health platform combining computer vision (dermatological check-ups) and NLP (symptom analysis) to give users personalized, reliable medical guidance.
-> `Python` `Computer Vision` `NLP` `Machine Learning`
-
----
-
-*Also into 3D design, hardware upcycling (turned a gutted gaming laptop into a suitcase Linux server) and audio-reactive visual art with TouchDesigner.*
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BaditSad&theme=minimal&hide_border=true"/>
+</p>
