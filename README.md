@@ -4,7 +4,7 @@
 
 <p align="center">
   <b>Data Engineer · AI & Automation Builder</b><br>
-  Connecting raw data pipelines to reliable, decision-ready systems — and shipping AI side-projects for fun
+  Connecting raw data pipelines to reliable, decision-ready systems and shipping AI side-projects for fun
 </p>
 
 <p align="center">
